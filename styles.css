@@ -1,0 +1,15 @@
+* {
+    text-align: 0;
+    padding: 0;
+    box-sizing: border-box;
+}
+header {
+    position: relative;
+    height: 120hv;
+}
+
+nav {
+    position: absolute;
+    top: 20;
+    right: 0;
+}
